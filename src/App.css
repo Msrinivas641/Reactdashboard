@@ -1,0 +1,21 @@
+.dashboard{
+    display: center;
+
+}
+
+.dashboard--content{
+    
+    
+    display: inline;
+    justify-content: space-between;
+   
+    
+}
+
+.Search{
+    top: 100px;
+    padding-bottom: 10px;
+    align-items: center;
+    display: flex;
+    justify-content: flex-end; 
+}
